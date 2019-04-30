@@ -32,7 +32,7 @@ body{
 
 .gallery {
     margin-top: 20px;
-    display: flex;
+    display: inline;
     flex-wrap: wrap;
     justify-content: center;
 }
