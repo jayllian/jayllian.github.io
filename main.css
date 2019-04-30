@@ -60,6 +60,11 @@ nav ul {
     border: 5px solid #fff;
 }
 
+img.resize{
+    max-width: 50%;
+    max-height: 50%;
+}
+
 .dummy-content {
     margin-right: 80px;
     margin-left: 80px;
