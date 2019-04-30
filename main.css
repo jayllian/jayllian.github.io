@@ -32,6 +32,10 @@ body{
 }
 */
 
+#page-description {
+    text-align: center;
+}
+
 .gallery {
     margin-top: 20px;
     display: flex;
