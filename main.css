@@ -32,7 +32,7 @@ body{
 
 .gallery {
     margin-top: 20px;
-    display: inline;
+    display: flex;
     flex-wrap: wrap;
     justify-content: center;
 }
@@ -43,4 +43,19 @@ body{
 
 .gallery-item .thumbnail {
     border: 5px solid #fff;
+}
+
+/* NAVIGATION BAR */
+nav {
+    background color: #FFF;
+}
+
+nav li {
+    margin: 0;
+    padding: 0 10px;
+    display: inline;
+}
+
+nav ul {
+    display: inline;
 }
