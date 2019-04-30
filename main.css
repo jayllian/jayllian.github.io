@@ -23,18 +23,13 @@ body{
     text-align: center;
 }
 
-/*
 .page-description {
     border: 1px solid #fff;
-    margin: 0px;
+    margin-left: 30px;
     text-align: center;
     padding: 10px;
 }
-*/
 
-#page-description {
-    text-align: center;
-}
 
 .gallery {
     margin-top: 20px;
