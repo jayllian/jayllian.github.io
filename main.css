@@ -26,9 +26,9 @@ body{
 
 .page-description {
     border: 1px solid #fff;
-    margin: 0px;
+    /*margin: 0px;*/
     text-align: center;
-    padding: 10px;
+    /*padding: 10px; */
 }
 
 
