@@ -19,9 +19,28 @@ body{
     font-weight: 700;
 }
 
+.page-slogan {
+    text-align: center;
+}
+
 .page-description {
     border: 1px solid #000;
     margin: 2px;
     text-align: center;
     padding: 30px;
+}
+
+.gallery {
+    margin-top: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.gallery-item {
+    margin: 20px;
+}
+
+.gallery-item .thumbnail {
+    border: 5px solid #fff;
 }
