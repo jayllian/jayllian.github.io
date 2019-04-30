@@ -47,7 +47,7 @@ nav ul {
 
 .gallery {
     margin-top: 15px;
-    margin-bottom: 40px;
+    margin-bottom: 100px;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
@@ -62,8 +62,8 @@ nav ul {
 }
 
 .gallery-item .resize-1 {
-    max-width: 85%;
-    max-height: 85%;
+    max-width: 40%;
+    max-height: 40%;
 }
 
 .dummy-content {
