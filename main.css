@@ -27,6 +27,23 @@ body{
     text-align: center;
 }
 
+/* NAVIGATION BAR */
+nav {
+    border: 1px solid #000;
+    margin: 0px;
+    text-align: center;
+    padding: 10px;
+}
+
+nav li {
+    margin: 0;
+    padding: 0 10px;
+    display: inline;
+}
+
+nav ul {
+    display: inline;
+}
 
 .gallery {
     margin-top: 20px;
@@ -41,22 +58,4 @@ body{
 
 .gallery-item .thumbnail {
     border: 5px solid #fff;
-}
-
-/* NAVIGATION BAR */
-nav {
-    /*border: 1px solid #000; */
-    margin: 0px;
-    text-align: center;
-    padding: 10px;
-}
-
-nav li {
-    margin: 0;
-    padding: 0 10px;
-    display: inline;
-}
-
-nav ul {
-    display: inline;
 }
