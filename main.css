@@ -24,7 +24,7 @@ body{
 }
 
 .page-description {
-    border: 1px solid #fff;
+    border: 1px solid #000;
     margin: 10px;
     text-align: center;
     padding: 10px;
@@ -48,7 +48,7 @@ body{
 
 /* NAVIGATION BAR */
 nav {
-    border: 3rem solid #000;
+    border: 1px solid #000;
     margin: 0px;
     text-align: center;
     padding: 10px;
