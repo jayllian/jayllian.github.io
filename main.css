@@ -23,12 +23,14 @@ body{
     text-align: center;
 }
 
+/* OFF 
 .page-description {
-    border: 1px solid #000;
+    border: 1px solid #fff;
     margin: 0px;
     text-align: center;
     padding: 10px;
 }
+*/
 
 .gallery {
     margin-top: 20px;
@@ -47,7 +49,10 @@ body{
 
 /* NAVIGATION BAR */
 nav {
-    background color: #FFF;
+    border: 1px solid #fff;
+    margin: 0px;
+    text-align: center;
+    padding: 10px;
 }
 
 nav li {
