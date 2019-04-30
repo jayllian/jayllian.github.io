@@ -59,3 +59,7 @@ nav ul {
 .gallery-item .thumbnail {
     border: 5px solid #fff;
 }
+
+.dummy-content {
+    padding: 40px
+}
