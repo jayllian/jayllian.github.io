@@ -60,7 +60,7 @@ nav ul {
     border: 5px solid #fff;
 }
 
-img.resize{
+.gallery-item .resize-1{
     max-width: 85%;
     max-height: 85%;
 }
